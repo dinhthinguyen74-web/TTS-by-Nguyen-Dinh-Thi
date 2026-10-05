@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base:'/TTS-by-Nguyen-Dinh-Thi/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
