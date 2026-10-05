@@ -1,0 +1,6 @@
+{
+  "name": "Việt Voice AI",
+  "description": "Chuyển văn bản và tài liệu DOCX, PDF tiếng Việt thành giọng nói tự nhiên bằng AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
